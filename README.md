@@ -1,6 +1,8 @@
 # 💫 About Me:
- Hi 👋, I’m Abhishek Nath, a Computer Science student passionate about Data Science & AI/ML 🤖<br><br>🐍 Currently learning Python, Pandas, NumPy, and ML fundamentals 📊<br><br>💡 Interested in data analysis, pattern finding, and smart solutions<br><br>🚀 Improving problem-solving skills through real-world projects<br><br>🌍 Aspiring to become a AI/ML Engineer<br><br>📂 This GitHub shows my learning journey, projects, and experiments
 
+ <img align="right" alt="AI" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+ 
+ Hi 👋, I’m Abhishek Nath, a Computer Science student passionate about Data Science & AI/ML 🤖<br><br>🐍 Currently learning Python, Pandas, NumPy, and ML fundamentals 📊<br><br>💡 Interested in data analysis, pattern finding, and smart solutions<br><br>🚀 Improving problem-solving skills through real-world projects<br><br>🌍 Aspiring to become a AI/ML Engineer<br><br>📂 This GitHub shows my learning journey, projects, and experiments
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhisheknath0218) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abh1shek.nath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheknath18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nathabhishek018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathabhishek018@gmail.com) 
