@@ -17,8 +17,8 @@
 ### ✍️:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://github.com/Abhisheknath25/Abhisheknath25/blob/output/snake-neon.svg" />
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 Contribution Snake : 
+<p align="center">
+  <img src="https://github.com/Abhisheknath25/Abhisheknath25/blob/output/pacman-glow.svg" width="100%">
+</p>
